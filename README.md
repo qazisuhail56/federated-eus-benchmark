@@ -19,7 +19,7 @@ Then anyone can use the box to train AI robots to find lumps, cysts or normal pa
 - You become a co-creator and get your name on papers!
 
 ### Current status
-- Founding core: My dataset (size coming soon)  
+- Founding core: My dataset (around 500 EUS images)  
 - Looking for 10+ hospitals to join!
 
 Made with ❤️ for better healthcare in South Asia.
