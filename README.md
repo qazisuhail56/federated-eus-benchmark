@@ -24,3 +24,6 @@ Then anyone can use the box to train AI robots to find lumps, cysts or normal pa
 
 Made with ❤️ for better healthcare in South Asia.
 contact qaziaamirsuhail@gmail.com
+## Helpful References (Uploaded)
+- 📖 **Atlas of Endoscopic Ultrasonography** (full textbook with EUS examples): [Atlas of Endoscopic Ultrasonography.pdf](Atlas%20of%20Endoscopic%20Ultrasonography%20-%20F%20Gress%2C%20et%20al%2C%20(Wiley-Blackwell%2C%202012)%20WW%20-%20PDF%20Room.pdf)  
+- 🫀 **Liver Sectors Diagram** (for labeling liver/bile areas): [Liver sectors.pdf](Liver%20sectors.pdf)
