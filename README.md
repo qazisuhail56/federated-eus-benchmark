@@ -1,7 +1,7 @@
 # 🏥 FED-EUS Benchmark Dataset  
 **The first open, multi-center EUS image dataset for AI in the world!**
 
-Hi! I am [put your full name here] from Srinagar.  
+Hi! I am Dr.Qazi Aamir Suhail from India.  
 I have a collection of EUS pictures from my hospital. This is the starting point (the "seed").
 
 ### What is this project?
