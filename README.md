@@ -23,3 +23,4 @@ Then anyone can use the box to train AI robots to find lumps, cysts or normal pa
 - Looking for 10+ hospitals to join!
 
 Made with ❤️ for better healthcare in South Asia.
+contact qaziaamirsuhail@gmail.com
